@@ -4,6 +4,12 @@ Furniture website project
 #Furniture Website
 This is a project of a furniture website created using only HTML5 and CSS. It serves as an example of a basic design and structure without dynamic functionality or interaction with a database.
 
+![image](https://github.com/ramonsolis11/Furniture-Website/assets/80738178/be20174c-9e4e-4215-a61d-5ba0d6eb4ded)
+![image](https://github.com/ramonsolis11/Furniture-Website/assets/80738178/39a18a02-ef99-4331-8e6a-735761b3db63)
+![image](https://github.com/ramonsolis11/Furniture-Website/assets/80738178/48cfb352-2ef5-4768-ba7b-896eba83ff68)
+![image](https://github.com/ramonsolis11/Furniture-Website/assets/80738178/a89a0210-db70-4cbb-986c-987004b4f963)
+
+
 #Features
 Responsive Design: The website is designed to be responsive and look great on different devices and screen sizes.
 Clear and Semantic Structure: HTML5 has been used to provide a well-defined and semantic structure, making it easier to understand and maintain the code.
