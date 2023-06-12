@@ -28,3 +28,5 @@ This project is licensed under the MIT License. If you use or get inspired by th
 If you have any questions or suggestions related to this project, feel free to reach out to me via email or by opening an issue.
 
 Thank you for visiting and exploring this furniture website created with HTML5 and CSS!
+
+📫 You can reach me at ramonsolis11@gmail.com.
